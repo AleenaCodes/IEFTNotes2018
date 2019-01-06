@@ -1,7 +1,5 @@
 # Internet Economics and Financial Technology 2018
 
-## Intro
-
 These notes are a combination of slides and the lectures so (hopefully) include everything on the course*
 
 *But I am not responsible if you fail 😛
@@ -20,8 +18,9 @@ Please submit a pull request if you spot anything wrong! ✏️
 |6|16/10/18|x|[Lec6](Notes/Lecture6.md)|✔️|
 |7|23/10/18|x|[Lec7](Notes/Lecture7.md)|✔️|
 |8|23/10/18|x|[Lec8](Notes/Lecture8.md)|✔️|
-|9|30/10/18|x|[Lec9](Notes/Lecture9.md)|❌|
-|10|30/10/18|x|[Lec10](Notes/Lecture10.md)|❌|
+|9|30/10/18|x|[Lec9](Notes/Lecture9.md)|✔️|
+|10|30/10/18|x|[Lec10](Notes/Lecture10.md)|✔️|
+|10.5|30/10/18|x|[Lec10.5](Notes/Lecture105.md)|✔️|
 |11|6/11/18|x|[Lec11](Notes/Lecture11.md)|❌|
 |12|6/11/18|x|[Lec12](Notes/Lecture12.md)|❌|
 |13|13/11/18|x|[Lec13](Notes/Lecture13.md)|❌|
