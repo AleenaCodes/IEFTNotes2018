@@ -4,7 +4,9 @@ These notes are a combination of slides and the lectures so (hopefully) include 
 
 *But I am not responsible if you fail 😛
 
-Please submit a pull request if you spot anything wrong! ✏️
+They also include some extras - lecture "10.5" which was a summary of the in-class session on 30/10/18, and a summary of part 1 of "The Economics of Information Technology" which is required reading for the course.
+
+I don't really proof-read these, so please submit a pull request if you spot anything wrong! (either grammar or content) ✏️
 
 ⚠️ Not everything is complete yet - table indicates the status of things
 
