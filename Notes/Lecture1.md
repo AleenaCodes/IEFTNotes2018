@@ -2,7 +2,7 @@
 
 ## Basics
 
-Two lecturers - 
+Two lecturers -
 
 - Dave Cliff
 - John Cartilidge
