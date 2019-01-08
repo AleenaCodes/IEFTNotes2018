@@ -18,8 +18,8 @@ A third explanation for waves of innovation is the development of components - a
 
 Technological revolutions such as cars, integrated circuits, servers etc. took many years, or even decades, to develop - so how did the internet revolution take off in only a few years? Some possible explanations -
 
-	- It's minor compared to other revolutions
-	- The "components" aren't physical so much as virtual - ideas, protocols, software etc. So no problems with manufacturing or procuring supplies - things could be distributed very quickly
+- It's minor compared to other revolutions
+- The "components" aren't physical so much as virtual - ideas, protocols, software etc. So no problems with manufacturing or procuring supplies - things could be distributed very quickly
 
 It should also be noted that open-source software lower the back to innovation greatly.
 
@@ -43,8 +43,8 @@ Some people argue that a new economics is needed to understand the new 'economy 
 
 Price discrimination is important in high-tech industries for two reasons -
 
-	- High-fixed-cost, low-marginal-cost technologies are common, leading to significant market power
-	- Tech allows for fine-grained observation and analysis of consumer behaviour, meaning price discrimination can be done on a very personalised level
+- High-fixed-cost, low-marginal-cost technologies are common, leading to significant market power
+- Tech allows for fine-grained observation and analysis of consumer behaviour, meaning price discrimination can be done on a very personalised level
 
 
 ### 1st Degree Price Discrimination
@@ -53,9 +53,9 @@ In the extreme case, information technology effectively reduces this down to a '
 
 Ulph and Vulkan (2000) observed two effects -
 
-	- "Enhanced surplus extraction" - personalised pricing allowed firms to charge prices closer to the customer's reservation price
-	- "Intensified competition" - each consumer is a market to be tested
-    - When consumer tastes are not dramatically different, The intensified competition effect dominates the enhanced surplus extraction effect, making firms worse off and consumers better off
+- "Enhanced surplus extraction" - personalised pricing allowed firms to charge prices closer to the customer's reservation price
+- "Intensified competition" - each consumer is a market to be tested
+  - When consumer tastes are not dramatically different, The intensified competition effect dominates the enhanced surplus extraction effect, making firms worse off and consumers better off
 
 
 However their research assumes full knowledge, whereas in reality long-term suppliers would know more about customers than new ones.
