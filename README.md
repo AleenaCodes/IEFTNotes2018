@@ -12,17 +12,17 @@ I don't really proof-read these, so please submit a pull request if you spot any
 
 |Lecture|Date|Topic|Notes|Status|
 |:--|:--|:--|:--|:--|
-|1|2/10/18|x|[Lec1](Notes/Lecture1.md)|✔️|
-|2|2/10/18|x|[Lec2](Notes/Lecture2.md)|✔️|
-|3|9/10/18|x|[Lec3](Notes/Lecture3.md)|✔️|
-|4|9/10/18|x|[Lec4](Notes/Lecture4.md)|✔️|
-|5|16/10/18|x|[Lec5](Notes/Lecture5.md)|✔️|
-|6|16/10/18|x|[Lec6](Notes/Lecture6.md)|✔️|
-|7|23/10/18|x|[Lec7](Notes/Lecture7.md)|✔️|
-|8|23/10/18|x|[Lec8](Notes/Lecture8.md)|✔️|
-|9|30/10/18|x|[Lec9](Notes/Lecture9.md)|✔️|
-|10|30/10/18|x|[Lec10](Notes/Lecture10.md)|✔️|
-|10.5|30/10/18|x|[Lec10.5](Notes/Lecture105.md)|✔️|
+|1|2/10/18|The Big Picture|[Lec1](Notes/Lecture1.md)|✔️|
+|2|2/10/18|Who Wants To Be a Billionaire?|[Lec2](Notes/Lecture2.md)|✔️|
+|3|9/10/18|Economics of the Internet I|[Lec3](Notes/Lecture3.md)|✔️|
+|4|9/10/18|Economics of the Internet II|[Lec4](Notes/Lecture4.md)|✔️|
+|5|16/10/18|Economics of the Internet III|[Lec5](Notes/Lecture5.md)|✔️|
+|6|16/10/18|Economics of the Internet IV|[Lec6](Notes/Lecture6.md)|✔️|
+|7|23/10/18|Cloud Computing|[Lec7](Notes/Lecture7.md)|✔️|
+|8|23/10/18|Markets & Economic Agents I|[Lec8](Notes/Lecture8.md)|✔️|
+|9|30/10/18|Markets & Economic Agents II|[Lec9](Notes/Lecture9.md)|✔️|
+|10|30/10/18|Empirical Methods|[Lec10](Notes/Lecture10.md)|✔️|
+|10.5|30/10/18|Bristol Stock Exchange|[Lec10.5](Notes/Lecture105.md)|✔️|
 |11|6/11/18|x|[Lec11](Notes/Lecture11.md)|❌|
 |12|6/11/18|x|[Lec12](Notes/Lecture12.md)|❌|
 |13|13/11/18|x|[Lec13](Notes/Lecture13.md)|❌|
