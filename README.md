@@ -35,3 +35,5 @@ I don't really proof-read these, so please submit a pull request if you spot any
 |20|11/12/18|x|[Lec20](Notes/Lecture20.md)|❌|
 |21|18/12/18|x|[Lec21](Notes/Lecture21.md)|❌|
 |22|18/12/18|x|[Lec22](Notes/Lecture22.md)|❌|
+
+[Notes from Part 1 of The Economics of Information Technology](Notes/Part1Book.md)
