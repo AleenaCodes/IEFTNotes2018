@@ -33,7 +33,7 @@ Billions of dollars were lost in the internet bubble, but a substantial fraction
 
 ### Where are we now?
 
-Ab abundance of everything has now been produced - computer cycles, bandwidth etc. but the challenge now is to understand how to use the capital investment of the 90's to improve the way goods and services are produced.
+An abundance of everything has now been produced - computer cycles, bandwidth etc. but the challenge now is to understand how to use the capital investment of the 90's to improve the way goods and services are produced.
 
 ### The New Economy
 
@@ -55,8 +55,7 @@ Ulph and Vulkan (2000) observed two effects -
 
 - "Enhanced surplus extraction" - personalised pricing allowed firms to charge prices closer to the customer's reservation price
 - "Intensified competition" - each consumer is a market to be tested
-  - When consumer tastes are not dramatically different, The intensified competition effect dominates the enhanced surplus extraction effect, making firms worse off and consumers better off
-
+  - When consumer tastes are not dramatically different, the intensified competition effect dominates the enhanced surplus extraction effect, making firms worse off and consumers better off
 
 However their research assumes full knowledge, whereas in reality long-term suppliers would know more about customers than new ones.
 
@@ -96,7 +95,7 @@ There has been a lot of research around what happens when some consumers use pri
 
 Bundling is the practice of selling two or more distinctive goods for a single price.  This is particularly attractive for information goods, since the marginal cost of adding an extra good to a bundle is negligible.
 
-Two distinct economic effects are observed with This
+Two distinct economic effects are observed with this
 
 - Reduced dispersion of willingness to pay
   - Essentially makes the demand curve flatter
@@ -111,12 +110,12 @@ Klemperer (1995) concluded that switching costs are generally bad for consumer w
 
 ### Switching Cost and Price Discrimination
 
-A common example of switching costs is printers - cheap printers with expensive ink. The market is competitive *ex ante*, but since ink is incompatible, it is monpolised *ex post*
+A common example of switching costs is printers - cheap printers with expensive ink. The market is competitive *ex ante*, but since ink is incompatible, it is monopolised *ex post*
 
 This situation can be viewed as a form of price discrimination -
 
 - The consumer cares about the price of the printer plus the price of the amount of cartridges they buy
-- If all consumers are identical, a monpolist that commits to future prices would set the price of the cartridges equal to their marginal cost, and use its monopoly power on the printer
+- If all consumers are identical, a monopolist that commits to future prices would set the price of the cartridges equal to their marginal cost, and use its monopoly power on the printer
 
 Suppose there are two types of customers - high-demand and low-demand customers.
 
