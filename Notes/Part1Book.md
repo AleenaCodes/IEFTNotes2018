@@ -210,4 +210,74 @@ The lessen from looking at these is that if all parties have to pay to compete, 
 
 It is also worth noting that in some conditions, the competition to acquire a price discriminating monopoly will dissipate all rents. If this dissipation involves offering heavy discounts to consumers, then the gain in surplus that consumers receive in the competition phase may offset the losses incurred in the monopoly phase.
 
-[NEED TO FINISH PAGES 34-47]
+## Demand-Side Economics of Scale
+
+Demand-side economics of scale, are known as "network externalities", or "network effects", since they commonly occurs in network industries.
+
+A good exhibits network effects, if the demand for the good depends on how many other people purchase it, e.g. a fax machine.
+
+There are two types of network effects
+
+- Direct network effects - the value comes from other people having the product e.g. fax machines
+- Indirect network effects - the value of your product will be increased by others having it indirectly e.g. others having broadband will mean better infrastructure and speed for you
+
+With supply-side economics, average cost decreases with sale, while with demand-side economics of scale, average revenue (demand) increases with scale.
+
+When network effects are present, there are normally multiple equilibria
+
+- No-one adopts the network so it has no value
+- If there are enough adopters then the good becomes more values so more adopt it - positive feedback
+  - The demand curve will be a hump shape - as the willingness to pay increases with adopters, then decreases once only consumers with less willingness to pay are left
+
+
+![](https://lh3.googleusercontent.com/6Wd4hA06o31hJuW5L9iry3xi8mf9iYuabHZn9Xpr7PBVL-tU40EAJYXvzZYjGAqbycLvoSpExT6n)
+
+There are 3 equilibria here - with the middle equilibrium showing 'critical mass' - if a product can get above this, the positive feedback kicks in.
+
+Early adopters may also value the network good less than subsequent adopters, so it makes sense for sellers to offer them at a lower price - 'penetration pricing'.
+
+## Standards
+
+If the value of a network depends on its size, then interconnection/standardisation becomes an important strategic decision.
+
+Generally, dominant firms with established networks prefer not to interconnect, but it's not always anathema to dominant firms and the benefits can be worth it - consider that
+
+$\text{your value} = \text{your share} \times \text{total industry value}$
+
+So when total industry value depends on the size of the market, adopting a standard may increase total value so much that it overcomes the possible dilution in market share.
+
+There are three forms of competition in a standards setting -
+
+- Standards war - firms compete to determine the standard
+- Standards negotiation - firms want a standard but disagree on what it should be
+- Standards leader - one firms leads with a standard, the other firm wants to interoperate with the existing standard
+
+There are also considerable cost savings in standardisation, due to economies of scale in manufacture and risk reduction.
+
+### Standards War
+
+There are common tactics in a standards war -
+
+- Penetration pricing to build an early lead
+- Building alliances with suppliers of complementary products
+- Expectations management e.g. bragging about market share
+- Commitments to lower prices in the future
+
+### Standard Negotiation
+
+Each players prefers a standard to no standard, but prefers their own standard to the other's.
+
+The outcome depends on the threat point - the payoff the parties receive if negotiations break down. The better off the bargainer is the more concession they can extract from their counterpart, so companies often develop proprietary solutions while engaged in negotiations, and it's not uncommon for companies to fail to disclose all relevant information in negotiations, thus leading to lawsuits etc.
+
+Sometimes standards are negotiated under the oversight of official bodies, but while they have the advantage of experience, they can also be very slow-moving.
+
+### Standards Leader
+
+In a market where an established firm wants to maintain a proprietary standard but a smaller firm wants to interconnect, there are several tactics
+
+- The proprietary standard may be protected by IP laws
+- The leader may change its technology frequently to keep the followers behind
+  - This also helps to resolve the 'durable good monopoly' issue for them as well
+- The follow can use an adapter, either with or without the larger firm's co-operation
+
+[NEED TO FINISH PAGES 42-47]
