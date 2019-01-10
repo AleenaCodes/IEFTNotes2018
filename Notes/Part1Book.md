@@ -280,4 +280,50 @@ In a market where an established firm wants to maintain a proprietary standard b
   - This also helps to resolve the 'durable good monopoly' issue for them as well
 - The follow can use an adapter, either with or without the larger firm's co-operation
 
-[NEED TO FINISH PAGES 42-47]
+## System Effects
+
+It's common in high-tech industries to see products that are useless unless combined with other products - e.g. hardware is useless without software, DVD players without DVDs etc. These are "complements" - good whose value depend on their being used together.
+
+Lock-in often occurs because users must invest in complementary products to use a good.
+
+Direct network effects as a symmetric form of complementaries, and indirect network effects are also a form of system effects.
+
+Standards involve a form of complementarity in that they are often designed to allow for seamless interconnection of components. However systems of complements raise economic issues - who will do the integration, the manufacturer, end user or some intermediary?
+
+Cournout (1838) analysed the stategic interactions between producers of complementary products - zinc and copper (as many companies bought from both of them to combine the two). He looked at what would happen is the two suppliers combined.
+
+Assume that $1$ unit of copper and $1$ unit of zinc combine to form $1$ unit of brass. Competition will push the price of brass down to its cost, which will be the sum of the prices. So demand of brass will be
+
+$D(p_1 + p_2)$
+
+Assuming the cost of production is zero for simplicity, the two producers want to maximise the profit of producing their metal.
+
+Copper: $\max\limits_{p_1}  \ p_1 D(p_1 + p_2)$
+Zinc: $\max\limits_{p_2}  \ p_2 D(p_1 + p_2)$
+
+If the two complementary monopolists merged, they would solve the joint profit maximisation problem
+
+$\max\limits_{p_1, p_2} \ (p_1 + p_2) D(p_1 + p_2)$
+
+Cournot showed that the complementary monopolists would set prices that were higher than if they merged. This is intuitive if we think of how if the price of zinc was cheaper then brass producers would buy more zinc as well, but how this is only profitable when the two producers are merged.
+
+There are many ways a firm may induce a complementor to cut its price -
+
+- Integrate
+  - One complementor acquires another, forming a merge identity
+- Collaborate
+  - The firms set up a formula for revenue sharing, then one firm sets the price of the joint system
+- Negotiate
+  - Two complementary firms may commit to both cutting a price at the same time
+- Nurture
+  - One firm works with the other to reduce their Costs
+- Commoditise
+  - One firm attempts to stimulate competition in the other's market, thereby pushing down prices
+
+## Computer Mediated Transactions
+
+More and more transactions are being mediated by computers these days, and this allows for new types of data mining and revenue models.
+
+For example Blockbuster were able to use a model where studios would receive part of the revenue from DVD rentals, which was achievable using recording technology inside the registers.
+
+Another example is in the trucking industry - which uses technology to record speed, when the engine is idling or accelerating, and many other details. These are then used for coordination and also fraud detection.
