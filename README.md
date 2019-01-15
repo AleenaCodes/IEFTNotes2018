@@ -25,7 +25,7 @@ I don't really proof-read these, so please submit a pull request if you spot any
 |10.5|30/10/18|Bristol Stock Exchange|[Lec10.5](Notes/Lecture105.md)|✔️|
 |11|6/11/18|Markets & Economic Agents III|[Lec11](Notes/Lecture11.md)|✔️|
 |12|6/11/18|Options & Betting Markets|[Lec12](Notes/Lecture12.md)|✔️|
-|13|13/11/18|x|[Lec13](Notes/Lecture13.md)|❌|
+|13|13/11/18|Online Games & Gamification|[Lec13](Notes/Lecture13.md)|✔️|
 |14|13/11/18|x|[Lec14](Notes/Lecture14.md)|❌|
 |15|27/11/18|x|[Lec15](Notes/Lecture15.md)|❌|
 |16|27/11/18|x|[Lec16](Notes/Lecture16.md)|❌|
