@@ -26,9 +26,9 @@ I don't really proof-read these, so please submit a pull request if you spot any
 |11|6/11/18|Markets & Economic Agents III|[Lec11](Notes/Lecture11.md)|✔️|
 |12|6/11/18|Options & Betting Markets|[Lec12](Notes/Lecture12.md)|✔️|
 |13|13/11/18|Online Games & Gamification|[Lec13](Notes/Lecture13.md)|✔️|
-|14|13/11/18|x|[Lec14](Notes/Lecture14.md)|❌|
-|15|27/11/18|x|[Lec15](Notes/Lecture15.md)|❌|
-|16|27/11/18|x|[Lec16](Notes/Lecture16.md)|❌|
+|14|13/11/18|Crowd Economics|[Lec14](Notes/Lecture14.md)|✔️|
+|15|27/11/18|Sentiment Analysis|[Lec15](Notes/Lecture15.md)|✔️|
+|16|27/11/18|FinTech & TechFin I|[Lec16](Notes/Lecture16.md)|✔️|
 |17|4/12/18|x|[Lec17](Notes/Lecture17.md)|❌|
 |18|4/12/18|x|[Lec18](Notes/Lecture18.md)|❌|
 |19|11/12/18|x|[Lec19](Notes/Lecture19.md)|❌|
