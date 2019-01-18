@@ -29,11 +29,10 @@ I don't really proof-read these, so please submit a pull request if you spot any
 |14|13/11/18|Crowd Economics|[Lec14](Notes/Lecture14.md)|✔️|
 |15|27/11/18|Sentiment Analysis|[Lec15](Notes/Lecture15.md)|✔️|
 |16|27/11/18|FinTech & TechFin I|[Lec16](Notes/Lecture16.md)|✔️|
-|17|4/12/18|x|[Lec17](Notes/Lecture17.md)|❌|
-|18|4/12/18|x|[Lec18](Notes/Lecture18.md)|❌|
-|19|11/12/18|x|[Lec19](Notes/Lecture19.md)|❌|
-|20|11/12/18|x|[Lec20](Notes/Lecture20.md)|❌|
-|21|18/12/18|x|[Lec21](Notes/Lecture21.md)|❌|
-|22|18/12/18|x|[Lec22](Notes/Lecture22.md)|❌|
+|17|4/12/18|FinTech & TechFin II|[Lec17](Notes/Lecture17.md)|✔️|
+|18|4/12/18|Bitcoin & Blockchain I|[Lec18](Notes/Lecture18.md)|✔️|
+|19|11/12/18|Bitcoin & Blockchain II|[Lec19](Notes/Lecture19.md)|✔️|
+|20|11/12/18|Malware Economics|[Lec20](Notes/Lecture20.md)|✔️|
+|21|18/12/18|RegTech & InsureTech|[Lec21](Notes/Lecture21.md)|❌|
 
 [Notes from Part 1 of The Economics of Information Technology](Notes/Part1Book.md)
