@@ -33,6 +33,6 @@ I don't really proof-read these, so please submit a pull request if you spot any
 |18|4/12/18|Bitcoin & Blockchain I|[Lec18](Notes/Lecture18.md)|✔️|
 |19|11/12/18|Bitcoin & Blockchain II|[Lec19](Notes/Lecture19.md)|✔️|
 |20|11/12/18|Malware Economics|[Lec20](Notes/Lecture20.md)|✔️|
-|21|18/12/18|RegTech & InsureTech|[Lec21](Notes/Lecture21.md)|❌|
+|21|18/12/18|RegTech & InsureTech|[Lec21](Notes/Lecture21.md)|✔️|
 
 [Notes from Part 1 of The Economics of Information Technology](Notes/Part1Book.md)
