@@ -8,8 +8,6 @@ They also include some extras - lecture "10.5" which was a summary of the in-cla
 
 I don't really proof-read these, so please submit a pull request if you spot anything wrong! (either grammar or content) ✏️
 
-⚠️ Not everything is complete yet - table indicates the status of things
-
 |Lecture|Date|Topic|Notes|Status|
 |:--|:--|:--|:--|:--|
 |1|2/10/18|The Big Picture|[Lec1](Notes/Lecture1.md)|✔️|
