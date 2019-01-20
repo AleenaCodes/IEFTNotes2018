@@ -62,9 +62,6 @@
 	- Outgoing connections are delayed instead of dropped - robust to false positives
 - Possible to be defeated but overall a decent solution
 
-> pick up on slide 33
-> https://www.ole.bris.ac.uk/bbcswebdav/pid-3602430-dt-content-rid-10468874_2/courses/COMSM0019_2018/open_access_cs/lecture_slides/COMSM0019_18_20.Malware.pdf
-
 ## Vulnerabilities Market
 
 - Security companies would spot vulnerabilities and disclose them publically
