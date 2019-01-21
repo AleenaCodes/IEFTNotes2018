@@ -26,11 +26,11 @@ Each experiments was as follows
 
 The alpha values of the experiments are
 
-- C - $12.5\%$
-- D - $11.5\%$
-- E - $9.8\%$
-- F - $.15\%$
-- G - $11.3\%$
+- C - 12.5%
+- D - 11.5%
+- E - 9.8%
+- F - .15%
+- G - 11.3%
 
 For this we can see that our classroom results were similar to those in Smith's original paper
 
@@ -63,13 +63,25 @@ While BSE doesn't have a GUI, if it did it would look like this
 	- The green cross indicated the micro-price (defined below)
 - Two statistics can be calculated
 	- The mid-price
-		- The bid-offer spread is the different between the top bid and top ask - here $177-150=27$
-		- The mid-price is the midpoint of the spread - here $(177+150)/2 = 163.5$
+		- The bid-offer spread is the different between the top bid and top ask
+		- va - vb where:
+			- va is the value of the item in the best ask
+			- vb is the value of the item in the best bid
+		- here 177-150=27
+		- The mid-price is the midpoint of the spread
+		- (va + vb) / 2
+			- va is the value of the item in the best ask
+			- vb is the value of the item in the best bid
+		- here (177+150)/2 = 163.5
 		- The problem is that it takes not notice of the quantities available - we know that a big imbalance in these would shift prices
 	- The micro-price
 		- This takes quantities into account as well
-		- It's calculated by the $\frac{\text{quantity of best bid}}{\text{total quantity}} \cdot \text{price of best ask} + \frac{\text{quantity of best ask}}{\text{total quantity}} \cdot \text{price of best bid}$
-		- Here it is $\frac{5}{(5+13)} \cdot 177 + \frac{13}{5+13} \cdot 150 = 157.5$
+		- It's calculated by the (qb / qa + qb) * va + (qa / qa + qb) * vb where:
+			- qa is the quantity of the item in the best ask
+			- qb is the quantity of the item in the best bid
+			- va is the value of the item in the best ask
+			- vb is the value of the item in the best bid
+		- Here it is (5/5+13) * 177 + (13/5+13) * 150 = 157.5
 		- By taking quantities into account, the micro-price will be closer to the best bid if there's an excess on the ask side, and vice versa
 		- In the GUI picture the number in green is the micro-price
 	- We're going to work with the micro-price in this example
