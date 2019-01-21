@@ -76,7 +76,7 @@ While BSE doesn't have a GUI, if it did it would look like this
 		- The problem is that it takes not notice of the quantities available - we know that a big imbalance in these would shift prices
 	- The micro-price
 		- This takes quantities into account as well
-		- It's calculated by the (qb / qa + qb) * va + (qa / qa + qb) * vb where:
+		- It's calculated by the (qb / (qa + qb)) * va + (qa / (qa + qb)) * vb where:
 			- qa is the quantity of the item in the best ask
 			- qb is the quantity of the item in the best bid
 			- va is the value of the item in the best ask
